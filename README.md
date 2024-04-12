@@ -7,8 +7,6 @@
 
 This Streamlit app enables users to perform image captioning and tag extraction using the Google Generative AI service. It utilizes Streamlit for the user interface and Google's Generative AI library for image analysis.
 
-## Access the Web Version
-Explore the app [here](https://image-caption-tagger.streamlit.app/).
 
 ## Features
 - Image Upload: Users can upload images in jpg, png, or jpeg formats.
