@@ -7,9 +7,6 @@
 
 This Streamlit app enables users to perform image captioning and tag extraction using the Google Generative AI service. It utilizes Streamlit for the user interface and Google's Generative AI library for image analysis.
 
-## Access the Web Version
-Explore the app [here](https://image-caption-tagger.streamlit.app/).
-
 ## Features
 - Image Upload: Users can upload images in jpg, png, or jpeg formats.
 - Caption Generation: The app generates captions for the uploaded image.
@@ -47,10 +44,4 @@ Contributions are welcome! Fork the repository and create a pull request.
 
 ## References
 CodeSmith harnesses the power of [Google's Gemini](https://cloud.google.com/gemini), a cutting-edge AI model, to achieve efficient code translation and generation across diverse programming languages. Gemini's robust functionalities empower CodeSmith with seamless contextual understanding, facilitating the delivery of precise and accurate results in code translation and generation processes.
-
-
-## Connect with Me
-[LinkedIn](https://www.linkedin.com/in/sgvkamalakar)
-
-
 
